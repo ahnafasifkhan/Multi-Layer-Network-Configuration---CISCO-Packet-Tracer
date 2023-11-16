@@ -1,6 +1,4 @@
-<h4 align="center">
-Multi-Layer Network Configuration - CISCO Packet Tracer
-</h4>
+## Multi-Layer Network Configuration - CISCO Packet Tracer
 
 ## Project Overview
 A multi-layer network implemented with CISCO Packet Tracer to simulate enterprise-level network integration, configured with advanced protocols including OSPF, EIGRP, STP, and HSRP to ensure efficient routing, with secure WAN connections utilizing Frame Relay and PPP, alongside ACLs and port security to bolster network defenses.
